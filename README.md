@@ -1,2 +1,0 @@
-# Mystic
-browser game engine
